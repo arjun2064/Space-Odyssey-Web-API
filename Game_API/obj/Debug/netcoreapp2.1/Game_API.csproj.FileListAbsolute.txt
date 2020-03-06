@@ -1,0 +1,42 @@
+C:\Northeastern\Info6250\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.deps.json
+C:\Northeastern\Info6250\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.runtimeconfig.json
+C:\Northeastern\Info6250\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.runtimeconfig.dev.json
+C:\Northeastern\Info6250\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.dll
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.csprojAssemblyReference.cache
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.csproj.CoreCompileInputs.cache
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorAssemblyInfo.cache
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorAssemblyInfo.cs
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.AssemblyInfoInputs.cache
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.AssemblyInfo.cs
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorTargetAssemblyInfo.cache
+C:\Northeastern\Info6250\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.pdb
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.dll
+C:\Northeastern\Info6250\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.pdb
+C:\GitRepository\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.deps.json
+C:\GitRepository\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.runtimeconfig.json
+C:\GitRepository\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.runtimeconfig.dev.json
+C:\GitRepository\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.dll
+C:\GitRepository\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.pdb
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.csprojAssemblyReference.cache
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.csproj.CoreCompileInputs.cache
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorAssemblyInfo.cache
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorAssemblyInfo.cs
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.AssemblyInfoInputs.cache
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.AssemblyInfo.cs
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorTargetAssemblyInfo.cache
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.dll
+C:\GitRepository\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.pdb
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.deps.json
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.runtimeconfig.json
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.runtimeconfig.dev.json
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.dll
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\bin\Debug\netcoreapp2.1\Game_API.pdb
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.csprojAssemblyReference.cache
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.csproj.CoreCompileInputs.cache
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorAssemblyInfo.cache
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorAssemblyInfo.cs
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.AssemblyInfoInputs.cache
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.AssemblyInfo.cs
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.RazorTargetAssemblyInfo.cache
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.dll
+C:\GitRepository\UPonhub\Space Odyssey\Game_API\Game_API\obj\Debug\netcoreapp2.1\Game_API.pdb
